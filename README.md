@@ -22,4 +22,4 @@ My name is Aneesh Bose. I am a Machine Learning Engineer at Microsoft India Deve
 
 [![Aneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aneeshbose&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)](https://github.com/aneeshbose/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshbose&layout=compact&theme=tokyonight)](https://github.com/aneeshbose/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshbose&layout=compact&theme=tokyonight&hide=html,css,scss)](https://github.com/aneeshbose/github-readme-stats)
