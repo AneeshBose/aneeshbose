@@ -14,7 +14,7 @@ I am a Machine Learning Engineer at Microsoft India Development Center. I have c
 - 🔭 I'm currently working on Explainable AI (XAI) and Recommender Systems.
 - 🌱 I’m currently passionate about Natural Language Processing using Deep Learning.
 - 👯 I’m looking to collaborate on research in Information Retrieval and seq2seq tasks like Machine Translation.
-- 🤔 I’m looking for help/mentor for publishing papers in the same areas mentioned above. 
+- 🤔 I’m looking for help/mentorship on publishing papers in the same areas mentioned above. 
 - 💬 Ask me about competitive programming, deep learning, machine learning, software engineering and NLP. 
 - 📫 How to reach me:  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aneeshbose2296@gmail.com)
 - 😄 Pronouns: he/him/his
