@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 I am a Machine Learning Engineer at Microsoft India Development Center. I have completed my undergraduate studies in Computer Science and Engineering from Manipal Institute of Technology with a minor specialization in Intelligent Systems.
 
 - 🔭 I'm currently working on Explainable AI (XAI) and Recommender Systems.
-- 🌱 I’m currently passionate about Natural Language Processing using Deep Learning.
+- 🌱 I’m passionate about Natural Language Processing using Deep Learning.
 - 👯 I’m looking to collaborate on research in Information Retrieval and seq2seq tasks like Machine Translation.
 - 🤔 I’m looking for help/mentorship on publishing papers in the same areas mentioned above. 
 - 💬 Ask me about competitive programming, deep learning, machine learning, software engineering and NLP. 
