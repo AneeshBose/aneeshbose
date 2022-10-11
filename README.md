@@ -18,7 +18,7 @@ I am a Machine Learning Engineer at Microsoft India Development Center. I have c
 - 💬 Ask me about competitive programming, deep learning, machine learning, software engineering and NLP. 
 - 📫 How to reach me:  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aneeshbose2296@gmail.com)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love sports. Represented my school in TT and Badminton, played cricket at district level, lawn tennis at club level and play football and squash in      my pastime. 
+- ⚡ Fun fact: I love sports. Represented my school in TT and Badminton, played cricket at district level, lawn tennis at club level and play football and squash in my pastime. 
 
 
  I am fond of competitive programming, but now I do it for fun and to learn new data structures and algorithms. You can find my programming activity below.  
