@@ -26,6 +26,6 @@ I am a Machine Learning Engineer at Microsoft India Development Center. I have c
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aneeshbose)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@a.boseavailable)
 
-[![Aneesh's GitHub stats](https://github-readme-stats-aneeshbose.vercel.app/api?username=aneeshbose&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)](https://github.com/aneeshbose/github-readme-stats)
+[![Aneesh's GitHub stats](https://github-readme-stats-git-master-aneeshbose.vercel.app/api?username=aneeshbose&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)](https://github.com/aneeshbose/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-aneeshbose.vercel.app/api/top-langs/?username=aneeshbose&layout=compact&theme=tokyonight&hide=html,css,scss)](https://github.com/aneeshbose/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-aneeshbose.vercel.app/api/top-langs/?username=aneeshbose&layout=compact&theme=tokyonight&hide=html,css,scss)](https://github.com/aneeshbose/github-readme-stats)
