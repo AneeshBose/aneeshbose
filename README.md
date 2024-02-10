@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aneesh_bose)
 -->
 
-I am a Machine Learning Engineer at Microsoft India Development Center. I have completed my undergraduate studies in Computer Science and Engineering from Manipal Institute of Technology with a minor specialization in Intelligent Systems.
+I am a Data and Applied Scientist at Microsoft India Development Center. I have completed my undergraduate studies in Computer Science and Engineering from Manipal Institute of Technology with a minor specialization in Intelligent Systems.
 
-- 🔭 I'm currently working on Explainable AI (XAI) and Recommender Systems.
-- 🌱 I’m passionate about Natural Language Processing using Deep Learning.
-- 👯 I’m looking to collaborate on research in Information Retrieval and seq2seq tasks like Machine Translation.
+- 🔭 I'm currently working on building Copilots using LLMs like GPT-35-Turbo and GPT-4 Turbo. I also work on Explainable AI (XAI) and Recommender Systems.
+- 🌱 I’m passionate about Natural Language Processing using Deep Learning, Generative AI using Large Language Models and Prompt Engineering.
+- 👯 I’m looking to collaborate on research in Generative AI, LLMs, Information Retrieval and seq2seq tasks like Machine Translation.
 <!-- - 🤔 I’m looking for help/mentorship on publishing papers in the same areas mentioned above.  -->
-- 💬 Ask me about competitive programming, machine learning, software engineering and NLP. 
+- 💬 Ask me about data science, competitive programming, machine learning, software engineering and NLP. 
 - 📫 How to reach me:  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aneeshbose2296@gmail.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love sports. Represented my school in TT and Badminton, played cricket at district level, lawn tennis at club level and play football and squash in my pastime. 
