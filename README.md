@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 I am a Data and Applied Scientist at Microsoft India Development Center. I have completed my undergraduate studies in Computer Science and Engineering from Manipal Institute of Technology with a minor specialization in Intelligent Systems.
 
-- 🔭 I'm currently working on building Copilots using LLMs like GPT-35-Turbo and GPT-4 Turbo. I also work on Explainable AI (XAI) and Recommender Systems.
+- 🔭 I'm currently working on building Copilots using LLMs like GPT-35-Turbo and GPT-4. I also work on Explainable AI (XAI) and Recommender Systems.
 - 🌱 I’m passionate about Natural Language Processing using Deep Learning, Generative AI using Large Language Models and Prompt Engineering.
 - 👯 I’m looking to collaborate on research in Generative AI, LLMs, Information Retrieval and seq2seq tasks like Machine Translation.
 <!-- - 🤔 I’m looking for help/mentorship on publishing papers in the same areas mentioned above.  -->
